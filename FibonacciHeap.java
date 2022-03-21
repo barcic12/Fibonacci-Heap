@@ -1,11 +1,5 @@
-/**
-* Name: Daniel Solaimani
-* User: solaimani
-* ID: 209082676
-*
+
 * Name: Bar Cicurel
-* User: barcicurel
-* ID: 308064849
 */
 
 /**
